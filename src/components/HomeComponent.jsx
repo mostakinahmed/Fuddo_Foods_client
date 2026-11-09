@@ -10,7 +10,6 @@ import {
   ChevronDown,
   X,
   Plus,
-  
   Minus,
   Trash2,
   HeartHandshake,
@@ -303,7 +302,7 @@ export default function App() {
         </div>
       )}
 
-     
+      {/* hjfsjhf */}
 
       {/* Sticky Header / Navigation */}
       <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-amber-100 shadow-sm transition-all">
